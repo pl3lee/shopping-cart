@@ -1,7 +1,7 @@
-import './App.css';
+import uniqid from 'uniqid';
 
 function App() {
-  return <div className="App"></div>;
+  return <div className="App">app</div>;
 }
 
 export default App;
